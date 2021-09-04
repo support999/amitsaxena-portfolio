@@ -1,12 +1,3 @@
-/*-----------------------------------------------------------------------------------------
-* Template Name      :  Kayden - Personal Bootstrap 5 HTML Portfolio Template              |
-* Author             :  Narek Sukiasyan                                                    |
-* Version            :  1.0.0                                                              |
-* Created            :  May 2021                                                           |
-* Updated            :  May 2021                                                           |
-* File Description   :  Preloader JS file of the template                                  |
-*------------------------------------------------------------------------------------------
-*/
 
 /* 
 -------------------------------
